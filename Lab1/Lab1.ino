@@ -14,6 +14,9 @@ void setup() {
 
 void loop() {
   // LEDs emulating a traffic light
+  // red for 5 seconds
+  // green for 3 seconds
+  // yellow for 2 seconds
   digitalWrite(red, HIGH);      // turn the red LED on (HIGH is the voltage level)
   delay(5000);                  // wati for 5 seconds
   digitalWrite(red, LOW);       // turn the red LED off by making the voltage LOW
