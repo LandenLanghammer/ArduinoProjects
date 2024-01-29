@@ -1,4 +1,5 @@
-//LANDEN
+//LANDEN 1/29/2024 
+// Lab 1: LEDs emulating a traffic light
 
 // creates variable strings for 13, 12, and 11
 int red = 13;
@@ -12,8 +13,7 @@ void setup() {
   pinMode(11, OUTPUT);
 }
 
-void loop() {
-  // LEDs emulating a traffic light
+void loop() 
   // red for 5 seconds
   // green for 3 seconds
   // yellow for 2 seconds
