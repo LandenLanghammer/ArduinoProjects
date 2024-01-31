@@ -1,4 +1,6 @@
-//Landen Langhammer
+//LANDEN 1/31/2024 
+// Lab 1: Pot-controlled LED
+
 int potValue; //declare potValue between 0-1023
 
 void setup() {
