@@ -1,3 +1,5 @@
+//LANDEN 2/2/2024 
+// Lab 3: Pot-controlled LED
 
 int redLED = 11; //intialize all three LEDs
 int greenLED = 12;
